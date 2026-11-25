@@ -1,5 +1,5 @@
-# Github: https://github.com/specterog 
-# Telegram: @specterog
+# Github: https://github.com/Batman-Priv 
+# Telegram: @Batman-Priv
 
 import os
 import sys
@@ -815,7 +815,7 @@ class ObfuscatorEngine:
             raise EncryptorError("Invalid loop count")
 
     def _generate_header(self) -> str:
-        return "# Encrypted by PyObfuscator\n# Gitub & Tg: @specterog\n\n"
+        return "# Encrypted by PyObfuscator\n# Gitub & Tg: @Batman-Priv\n\n"
 
     def obfuscate(self, option: int, source: str, output_path: str) -> None:
         chain = self.codec.build_encoding_chain(option)
@@ -1034,7 +1034,7 @@ class Interface:
                          .        {COLOR["brown"]}     .+@@%-           
                                    {COLOR["brown"]}      .*@@%-         
                                    {COLOR["brown"]}        .+*:
-    {COLOR["green"]}PyObfuscator | Advanced Edition | Git & Tg: @specterog
+    {COLOR["green"]}PyObfuscator | Advanced Edition | Git & Tg: @Batman-Priv
 '''
         print(banner)
 

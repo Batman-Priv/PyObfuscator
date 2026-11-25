@@ -13,7 +13,7 @@
 
 PyObfuscator is a professional-grade Python obfuscation tool offering **45 distinct protection methods**, ranging from simple encoding to advanced AST manipulation and multi-layer cryptographic protection. Each technique is designed to make reverse engineering, decompilation, and code analysis significantly more difficult.
 
-> **Developer:** [@specterog](https://t.me/specterog)
+> **Developer:** [@Batman-Priv](https://t.me/Batman-Priv)
 
 ---
 
@@ -183,7 +183,7 @@ Each combination uses reverse-order decoding, and all encoded data is byte-rever
 
 ```bash
 # Clone the repository
-git clone https://gitlab.com/specterog/PyObfuscator.git
+git clone https://github.com/Batman-Priv/PyObfuscator.git
 cd PyObfuscator
 
 # Run the tool (auto-installs pycryptodome if missing)
@@ -349,5 +349,5 @@ This project is licensed under the MIT License.
 
 ---
 
-**Developed by [@specterog](https://t.me/specterog)**  
+**Developed by [@Batman-Priv](https://t.me/Batman-Priv)**  
 *For educational and legitimate protection purposes only.*
